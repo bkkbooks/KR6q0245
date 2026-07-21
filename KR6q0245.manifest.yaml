@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0245_000.yaml, hash: 'sha256:b051ccc5c2ae50b0b0fb885d474c9196ca5b1dc3e191cc9d64f588461cbd97e7'}
+  - {seq: 0, filename: KR6q0245_000.yaml, hash: 'sha256:ddeae7506631c0bcb281972e091f486e689670b601204a0a5f8d7b5c58a5a8b7'}
   - {seq: 1, filename: KR6q0245_001.yaml, hash: 'sha256:36c5738f62b6f73684ebb14f0235434a51ba032a31e07e110e9af77adabbc5f4'}
   - {seq: 2, filename: KR6q0245_002.yaml, hash: 'sha256:c12b3d84d42cb4289bef54cd2a13a389b78b5becb5e6a75dd49950bdee4989a7'}
   - {seq: 3, filename: KR6q0245_003.yaml, hash: 'sha256:85ee5bde07cd80918d3878c2eddbda58adeceb250d6476cd1b0ef5c05da656a0'}
@@ -68,7 +68,7 @@ assets:
   - {seq: 44, filename: KR6q0245_044.yaml, hash: 'sha256:13bde4e6b55cdf4c99f0d28385a1217f739bd4142a88e604bee56fb863522b7b'}
   - {seq: 45, filename: KR6q0245_045.yaml, hash: 'sha256:6a67effc6c23429450885ea5e2f5fd211a7f4d9a576fddb6f845775f3f05edcc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0245_000.markers.yaml, hash: 'sha256:5adadbd12df76509ce3d5a305fee53230295b53840e6c3c6c26a258cc965c8c6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0245_000.markers.yaml, hash: 'sha256:bcc600623ed81ca27ce20a8e304430a6152af682dbf24821921ca2b64c6fcf47'}
   - {seq: 1, role: markers, filename: assets/KR6q0245_001.markers.yaml, hash: 'sha256:85e1d39ed67c45cb0447405d0e00561f202ee4b8b02051bac650aaf435b9fb5f'}
   - {seq: 2, role: markers, filename: assets/KR6q0245_002.markers.yaml, hash: 'sha256:b37d4b77c1a9f9e6793eb3ff76bd626435433a0224394ca196e401a8a7ca4389'}
   - {seq: 3, role: markers, filename: assets/KR6q0245_003.markers.yaml, hash: 'sha256:a2da67a81705062fff015cecd355795b0cad852012a8ca3f65f48e33c4e0e3ac'}
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0245_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1296-A 宗門拈古彙集序
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0245_X_000-mulu-2
     span:
-    - front
+    - body
     - 691
     - 691
   label: No. 1296-B 宗門拈古彙集序
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0245_X_000-mulu-3
     span:
-    - front
+    - body
     - 1305
     - 1305
   label: 宗門拈占彚集凡例
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0245_X_000-mulu-4
     span:
-    - front
+    - body
     - 1979
     - 1979
   label: 宗門拈古彚集目錄
@@ -4715,7 +4715,7 @@ table_of_contents:
   label: 建陽東苑慧臺元鏡禪師
   type: mulu
   level: 1
-hash: sha256:b9d8ecbdf3f8621673f177ed5262687d389fd34ed87b253dc2e5a8240f7e4541
+hash: sha256:be1d8b493423c0d04c1d5bfcd1de736c4a8968f523c3fbbf1a1ba5daf1923db3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
